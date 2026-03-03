@@ -10,6 +10,13 @@ DALEK_CAAN is a high-performance architectural mutation system designed to trans
 - **DNA Extraction**: Analyzes target repositories to extract core architectural signatures before mutation.
 - **Real-time Search Grounding**: Uses Google Search to inform architectural voting and pattern selection.
 
+## 📁 Repository Structure
+
+- `src/`: Core application logic and UI.
+- `templates/`: Example files for DNA and Saturation.
+  - `dna_sample.txt`: A reference for high-order architectural patterns.
+  - `saturation_sample.txt`: Guidelines for theoretical ideas and constraints.
+
 ## 🧪 The `test-1` Case Study
 
 The `craighckby-stack/test-1` repository was used as the primary testbed for this system. 
