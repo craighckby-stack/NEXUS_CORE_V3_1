@@ -1,6 +1,6 @@
-# NEXUS_CORE v3.1: AI Evolution Engine
+# DALEK_CAAN v3.1: Advanced Architectural Siphon Engine
 
-NEXUS_CORE is a high-performance, self-evolving AGI mutation system designed to architecturally transform codebases by siphoning patterns from world-class repositories.
+DALEK_CAAN is a high-performance architectural mutation system designed to transform codebases by siphoning patterns from world-class repositories. Unlike generic AI tools, DALEK_CAAN focuses on structural integrity and pattern-matching across diverse domains.
 
 ## 🚀 Features
 
@@ -9,6 +9,20 @@ NEXUS_CORE is a high-performance, self-evolving AGI mutation system designed to 
 - **Triple-AI Fallback**: Seamlessly switches between Gemini 3.1, Grok-Beta, and Cerebras Llama-3.1 to ensure 100% uptime.
 - **DNA Extraction**: Analyzes target repositories to extract core architectural signatures before mutation.
 - **Real-time Search Grounding**: Uses Google Search to inform architectural voting and pattern selection.
+
+## 🧪 The `test-1` Case Study
+
+The `craighckby-stack/test-1` repository was used as the primary testbed for this system. 
+
+### What it was built for:
+- **Pattern Validation**: Testing how the system handles raw, unoptimized code and transitions it into high-order structures.
+- **Context Chaining**: Verifying that the AI can maintain architectural consistency across multiple files in a real-world repository.
+- **Siphon Accuracy**: Measuring the effectiveness of "voting" on different architectural origins for specific file types.
+
+### What others can use it for:
+- **Architectural Refactoring**: Automatically upgrading legacy codebases to modern standards (e.g., migrating to TypeScript or implementing Clean Architecture).
+- **Cross-Repo Learning**: Siphoning best practices from industry leaders and applying them to private projects.
+- **Rapid Prototyping**: Generating robust, well-architected boilerplate from minimal initial code.
 
 ## 🛠️ Installation
 
