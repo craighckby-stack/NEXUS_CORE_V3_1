@@ -9,7 +9,7 @@ DALEK_CAAN is a high-performance architectural mutation system designed to trans
 - **Triple-AI Fallback**: Seamlessly switches between Gemini 3.1, Grok-Beta, and Cerebras Llama-3.1 to ensure 100% uptime.
 - **DNA Extraction**: Analyzes target repositories to extract core architectural signatures before mutation.
 - **Real-time Search Grounding**: Uses Google Search to inform architectural voting and pattern selection.
-- **Sticky Fallback Protocol**: Once a primary AI (Gemini) encounters a quota or network failure, the system automatically switches to fallback protocols (Grok/Cerebras) for the remainder of the session to prevent repeated errors and delays.
+- **Hardened Sticky Fallback Protocol**: Once a primary AI (Gemini) encounters a quota or network failure, the system instantly locks into fallback protocols (Grok/Cerebras) for the remainder of the session using a high-fidelity reference lock. This prevents the "retry-loop" and ensures zero-latency transitions during high-volume mutations.
 
 ## 📁 Repository Structure
 
